@@ -11,7 +11,7 @@ Hyungkyu Lim
 hlim14@ur.rochester.edu
 
 Sahar Nasiri
-shajisey@ur.rochester.edu
+saharnasiri71@gmail.com
 
 Zongyan Yang
 zyang46@ur.rochester.edu
