@@ -1,6 +1,6 @@
 # Recommender System
 
-Welcome to our repository for our recommender system!
+Welcome to the repository for our recommender system!
 
 ## Contributors
 
