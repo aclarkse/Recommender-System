@@ -5,7 +5,7 @@ Welcome to the repository for our recommender system!
 ## Contributors
 
 Andrea Clark-Sevilla
-aclarkse@ur.rochester.edu
+andrea.c.sev@gmail.com
 
 Hyungkyu Lim
 hlim14@ur.rochester.edu
